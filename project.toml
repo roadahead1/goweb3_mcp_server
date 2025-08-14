@@ -1,0 +1,17 @@
+[project]
+name = "goweb3_mcp_server"
+version = "0.1.0"
+description = "MCP Server for GoWeb3.fyi events and news"
+requires-python = ">=3.10"
+
+dependencies = [
+    "fastmcp"
+]
+
+authors = [
+    { name = "GoWeb3 Team", email = "info@goweb3.fyi" }
+]
+
+license = { text = "MIT" }
+
+readme = "README.md"
