@@ -20,4 +20,7 @@ The GoWeb3.fyi MCP server provides the following resources:
 
 The MCP server could be directly accessed by connecting a mcp-enabled AI assistant or other application to [GoWeb3 MCP Server](https://mcp.goweb3.fyi/mcp). 
 
+For example, the MCP Inspector setup is shown in the picture below:
+![MCP Inspector Setup](images/MCP_Inspector.jpg)
+
 To access the server locally one could run a local-to-remote MCP server bridge - the python example is provided in [web3_mcp_local_server.py](web3_mcp_local_server.py).
