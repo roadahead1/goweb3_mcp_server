@@ -18,7 +18,7 @@ The GoWeb3.fyi MCP server provides the following resources:
 
 ## Setup
 
-The MCP server could be directly accessed by connecting a mcp-enabled AI assistant or other application to [GoWeb3 MCP Server](https://mcp.goweb3.fyi/mcp). 
+The MCP server could be directly accessed by connecting a mcp-enabled AI assistant or other application to [GoWeb3 MCP Server](https://mcp.goweb3.fyi/mcp) at https://mcp.goweb3.fyi/mcp.
 
 For example, the MCP Inspector setup is shown in the picture below:
 ![MCP Inspector Setup](images/MCP_Inspector.jpg)
